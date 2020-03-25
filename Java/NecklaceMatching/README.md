@@ -1,4 +1,4 @@
-# Challenge
+# [2020-03-09] Challenge #383 [Easy] Necklace matching
 
 [Source code](https://github.com/ViiRaLe/DailyProgrammer/blob/master/Java/NecklaceMatching/NecklaceMatching.java)
 
