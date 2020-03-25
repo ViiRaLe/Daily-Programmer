@@ -47,7 +47,8 @@ public class NecklaceMatching
             char a = rotatingNecklace.charAt(0);
             rotatingNecklace = rotatingNecklace.substring(1) + a;
         }
-
+		
+		if (times == 0) times++;
         return times;
     }
 }
