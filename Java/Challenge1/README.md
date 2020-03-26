@@ -1,6 +1,7 @@
 # [easy] challenge #1
 
 [Source code](https://github.com/ViiRaLe/DailyProgrammer/blob/master/Java/Challenge1/Challenge1.java)
+
 [Original Post](https://www.reddit.com/r/dailyprogrammer/comments/pih8x/easy_challenge_1/)
 
 Create a program that will ask the users name, age, and reddit username. have it tell them the information back, in the format:
