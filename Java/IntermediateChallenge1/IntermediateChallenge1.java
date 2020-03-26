@@ -334,11 +334,6 @@ public class IntermediateChallenge1
 
     static class HourEvent
     {
-        public float compareTo(float h2)
-        {
-            return hour - h2;
-        }
-
         float hour = 0f;
         int day = 1;
         int month = 1;
