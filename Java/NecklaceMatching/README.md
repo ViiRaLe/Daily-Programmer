@@ -1,6 +1,7 @@
 # [2020-03-09] Challenge #383 [Easy] Necklace matching
 
 [Source code](https://github.com/ViiRaLe/DailyProgrammer/blob/master/Java/NecklaceMatching/NecklaceMatching.java)
+[Original Post](https://www.reddit.com/r/dailyprogrammer/comments/ffxabb/20200309_challenge_383_easy_necklace_matching/)
 
 Imagine a necklace with lettered beads that can slide along the string. Here's an example image. In this example, you could take the N off NICOLE and slide it around to the other end to make ICOLEN. Do it again to get COLENI, and so on. For the purpose of today's challenge, we'll say that the strings "nicole", "icolen", and "coleni" describe the same necklace.
 
