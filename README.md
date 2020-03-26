@@ -10,3 +10,5 @@ Source of the programs done in Java.
   - With Bonus 1
 * [[easy] challenge #1](https://github.com/ViiRaLe/DailyProgrammer/blob/master/Java/Challenge1/)
   - With Bonus
+* [[intermediate] challenge #1](https://github.com/ViiRaLe/DailyProgrammer/blob/master/Java/IntermediateChallenge1/)
+  - Added Saving / Loading of events
