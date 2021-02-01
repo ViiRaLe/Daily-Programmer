@@ -18,7 +18,7 @@ public class NecklaceMatching
         System.out.println(isSameNecklace(necklaceA, necklaceB) ? " Yes, they are." : " No, they are not.");
 
         int n = repetition(necklaceA);
-        System.out.format("\nHow many times %s is repeated in itself? It is repeated %d %s.", necklaceA, n,  (n <= 1 ? "time" : "times"));
+        System.out.format("\nHow many times %s is repeated in itself? It is repeated %d %s.", necklaceA, n,  (n == 1 ? "time" : "times"));
 
     }
 
